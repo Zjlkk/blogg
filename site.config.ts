@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Jialin',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'My thoughts on Economics, Products and Start-ups',
 
   // social usernames (optional)
   twitter: 'jjialinn',

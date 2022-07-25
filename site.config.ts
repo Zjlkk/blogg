@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Jialin',
 
   // open graph metadata (optional)
-//  description: 'My thoughts on Economics, Products and Start-ups',
+  description: 'My thoughts on Economics, Products and Start-ups',
 
   // social usernames (optional)
   twitter: 'jjialinn',

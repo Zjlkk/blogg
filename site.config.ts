@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Some Thoughts',
+  name: '20% Time',
   domain: 'https://angry-tire-e58.notion.site/6bec0c76a0f74ddeae36807fae9c92bb',
   author: 'Jialin',
 

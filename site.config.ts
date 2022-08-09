@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '6bec0c76a0f74ddeae36807fae9c92bb',
+  rootNotionPageId: '45725a3535944e658cd8f17b503976dd',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '20% Time',
-  domain: 'https://angry-tire-e58.notion.site/6bec0c76a0f74ddeae36807fae9c92bb',
-  author: 'Jialin',
+  name: 'Mirror World SDK',
+  domain: 'https://www.notion.so/mirrorworldfun/Mirror-World-SDK-45725a3535944e658cd8f17b503976dd',
+  author: 'Mirror World SDK',
 
   // open graph metadata (optional)
-  description: 'My thoughts on Economics, Products and Start-ups',
+  description: 'Mirror World SDK is a set of cross-platform tools aiming to help developers integrate blockchain more efficiently, easily and cost-effectively.',
 
   // social usernames (optional)
-  twitter: 'jjialinn',
-  github: '',
-  linkedin: '',
+  twitter: 'mirror_matrix',
+  //github: '',
+  //linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
